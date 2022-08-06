@@ -1,0 +1,46 @@
+.star {
+	position: relative;
+
+	display: inline-block;
+	width: 0;
+	height: 0;
+
+	margin-left: 0.9em;
+	margin-right: 0.9em;
+	margin-bottom: 1.2em;
+
+	border-right: 0.3em solid transparent;
+	border-bottom: 0.7em solid #fc0;
+	border-left: 0.3em solid transparent;
+}
+
+.comment-text {
+	width: 600px;
+	text-indent: 25px;
+}
+
+.customer-img {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+.costumer-aval {
+	margin-left: 10px;
+}
+.costumer-name {
+	font-size: 17px;
+	font-weight: bold;
+	margin-left: 3px;
+}
+
+.star-rating {
+}
+
+.comment-container {
+	display: flex;
+	align-items: center;
+}
+
+ul {
+	list-style-type: none;
+}
