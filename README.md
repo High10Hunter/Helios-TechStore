@@ -1,4 +1,4 @@
-# Simple Shopping Website 🛒
+# Helios TechStore 🛒
 
 A shopping website which sells laptop, mobile phone and other technological-related stuff,...
 
